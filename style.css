@@ -1,0 +1,49 @@
+.header{
+
+    background-color: azure;
+    align-content: center;
+
+}
+.logo{
+    margin-left: 20px;
+    border:solid green;
+    padding-top: 2%;
+}
+.nav{
+    margin-left: 150px;
+    flex-direction: row;
+    place-content: centre;
+    padding-bottom: 2%;
+    text-decoration: none;
+}
+#buttons{
+    margin-left: 600px
+    
+    
+}
+#body{
+
+    height: 50%;
+    width: 40%;
+    border:solid green;
+}
+.image{
+    display: flex;
+    padding-top: 2%;
+}
+.image img{
+    margin-right: 10px
+}
+.hero{
+height: 50%;
+width: 50%;
+margin-left: 700px;
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 150px
+}
+.hero img{
+    height: 100px;
+    width: 100px;
+}
